@@ -6,4 +6,5 @@ Things you must do:
 3. Open https://[domain]/[path]/Bot.php?set
 4. Edit Your Bot Settings in @botfather
 5. Start Your Bot
+
 If you need more ability, Write yourself :)
